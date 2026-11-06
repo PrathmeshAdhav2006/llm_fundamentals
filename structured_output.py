@@ -1,6 +1,6 @@
 from openai import OpenAI
 from dotenv import load_dotenv
-from pydantic import BaseModel
+from pydantic_demo import BaseModel
 
 load_dotenv()
 
