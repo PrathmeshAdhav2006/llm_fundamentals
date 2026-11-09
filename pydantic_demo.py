@@ -16,6 +16,7 @@ def insert_user_data(user_instance: user):
     # Here you can insert the user data into a database or perform any other operations
     print(user_instance)
 
+# Example usage
 user_data = {
     "name" : "Alice",
     "age" : 30,
